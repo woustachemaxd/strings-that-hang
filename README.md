@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center"> uttejit-backend</h3>
+  <h3 align="center"> strings-that-hang</h3>
 
   <p align="center">
     react three fiber stringy strings
